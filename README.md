@@ -93,7 +93,7 @@ src/
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/quickbite.git
+git clone https://github.com/Shani4658/quickbite.git
 cd quickbite
 ```
 
